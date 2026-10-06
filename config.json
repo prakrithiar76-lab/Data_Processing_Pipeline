@@ -1,0 +1,5 @@
+{
+    "input_file": "input/students.csv",
+    "output_file": "output/processed_students.csv",
+    "log_file": "logs/pipeline.log"
+}
